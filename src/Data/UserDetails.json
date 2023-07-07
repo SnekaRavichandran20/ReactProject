@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "fname": "John",
+        "lname": "Wick",
+        "mail": "Siddarthkumar@propelinc.com",
+        "contact": "1234567890",
+        "title": "Software Developer",
+        "company": "Propel",
+        "status": "Active",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "fname": "Siddarth",
+        "lname": "Kumar",
+        "mail": "Siddarthkumar@propelinc.com",
+        "contact": "1234567890",
+        "title": "Software Developer",
+        "company": "Propel",
+        "status": "Inactive",
+        "role": "employee"
+    },
+    {
+        "id": 3,
+        "fname": "Siddarth",
+        "lname": "Kumar",
+        "mail": "Siddarthkumar@propelinc.com",
+        "contact": "1234567890",
+        "title": "Software Developer",
+        "company": "Propel",
+        "status": "Active",
+        "role": "employee"
+    },
+    {
+        "id": 4,
+        "fname": "Siddarth",
+        "lname": "Kumar",
+        "mail": "Siddarthkumar@propelinc.com",
+        "contact": "1234567890",
+        "title": "Software Developer",
+        "company": "Propel",
+        "status": "Inactive",
+        "role": "employee"
+    },
+    {
+        "id": 5,
+        "fname": "Siddarth",
+        "lname": "Kumar",
+        "mail": "Siddarthkumar@propelinc.com",
+        "contact": "1234567890",
+        "title": "Software Developer",
+        "company": "Propel",
+        "status": "Inactive",
+        "role": "employee"
+    },
+    {
+        "id": 6,
+        "fname": "Siddarth",
+        "lname": "Kumar",
+        "mail": "Siddarthkumar@propelinc.com",
+        "contact": "1234567890",
+        "title": "Software Developer",
+        "company": "Propel",
+        "status": "Inactive",
+        "role": "employee"
+    }
+]
+
+
+
+

@@ -1,0 +1,45 @@
+[
+    {
+        "elementName": "First Name",
+        "elementType": "text",
+        "validation": true,
+        "valid": false,
+        "errorMessage": "Please Enter First Name"
+    },
+    {
+        "elementName": "Last Name",
+        "elementType": "text",
+        "validation": true,
+        "valid": false,
+        "errorMessage": "Please Enter Last Name"
+    },
+    {
+        "elementName": "Email-Id",
+        "elementType": "text",
+        "validation": true,
+        "valid": false,
+        "errorMessage": "Please Enter a valid Email-id"
+    },
+    {
+        "elementName": "Contact No",
+        "elementType": "text",
+        "validation": false,
+        "valid": false,
+        "errorMessage": ""
+    },
+    {
+        "elementName": "Title",
+        "elementType": "text",
+        "validation": false,
+        "valid": false,
+        "errorMessage": ""
+    },
+    {
+        "elementName": "Company",
+        "elementType": "text",
+        "validation": false,
+        "valid": false,
+        "errorMessage": ""
+    }
+
+]
